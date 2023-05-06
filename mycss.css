@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.all img {
+    width: 25%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
